@@ -1,2 +1,0 @@
-# VORTX
-Case VORTX
